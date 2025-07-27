@@ -2,3 +2,4 @@ venv
 .env
 *.pkl
 logs/
+*.h5
